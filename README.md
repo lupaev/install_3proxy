@@ -33,7 +33,7 @@
    chmod +x 3proxy.sh
 3. Запустите скрипт:
    ```shell
-   sudo ./3proxy.sh
+   sudo sh ./3proxy.sh
 
 
 ## ⚙️ Возможности
